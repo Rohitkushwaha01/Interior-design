@@ -29,10 +29,8 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
+- [Built With](#built-with)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -42,13 +40,13 @@ Created a Basic frontend design.
 
 ### Built With
 
-<ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-<ul>
-
+   
+<!-- Contact -->
+   
 ## Contact
 
 - StackOverflow [your-website.com](https://stackoverflow.com/users/18925657/rohit-kushwaha)
-- GitHub [@your-username](- Website [your-website.com](https://github.com/Rohitkushwaha01))
+- GitHub [Rohitkushwaha01](https://github.com/Rohitkushwaha01)
